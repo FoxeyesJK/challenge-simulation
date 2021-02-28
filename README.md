@@ -1,7 +1,7 @@
 # challenge-simulation
 
 **Requirements**
-* Create a page that the trainee should only view and save the simulations that their client has access to.
+* Create a page that the trainee should only view the simulations that their client has access to and assign simulations to the clients.
 
 **Assumption**
 * No API connection other than listed APIs(No client update API).
@@ -46,7 +46,8 @@
 	* npm start - run react application
 * Select trainee from Dropdown list
 * Assign multiple simulations to the trainee & client
-* Click save to store the data
+* Click save to store the data.
+* Check the saved data by changing trainee.
   
  ![image](https://user-images.githubusercontent.com/25089799/109428334-ae509680-79c4-11eb-977e-5b5167ff48fc.png)
 	
